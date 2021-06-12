@@ -5,6 +5,8 @@ All the exercises here were solved in Codurance Academy classes.
 ## Install & Run
 `npm i`
 
+`npm install -g npm`
+
 `npm start`
 
 ## Only run specific Kata unit test
