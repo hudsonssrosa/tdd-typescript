@@ -1,5 +1,8 @@
 # Typescript + Jest Kata Seed
 All the exercises here were solved in Codurance Academy classes.
+See more in: 
+ - https://github.com/codurance/academy-walking-1-typescript-base-jest
+ - https://github.com/eyev/Typescript-Jest-Kata-Seed
 
 
 ## Install & Run
