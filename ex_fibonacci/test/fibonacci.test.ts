@@ -1,4 +1,4 @@
-import { Fibonacci } from "../main/fibonacci";
+import { Fibonacci } from "../src/main/fibonacci";
 
 describe("Fibonacci test", () => {
   let fibonacci: Fibonacci = new Fibonacci();

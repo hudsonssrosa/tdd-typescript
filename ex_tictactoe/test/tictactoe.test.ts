@@ -1,4 +1,4 @@
-import { TicTacToe } from "../main/tictactoe";
+import { TicTacToe } from "../src/main/tictactoe";
 
 describe("TicTacToe test", () => {
 

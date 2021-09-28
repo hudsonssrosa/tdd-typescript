@@ -3,11 +3,22 @@
         "module": "commonjs",
         "target": "es6",
         "strict": true,
-        "declaration":true,
+        "declaration": true,
         "noImplicitAny": true,
         "sourceMap": false,
         "outDir": "./dist",
     },
-    "include": ["src/**/*"],
-    "exclude": ["node_modules"]
+    "include": [
+        "src/**/*",
+        "ex_leapYear/src/main/leap.year.ts",
+        "ex_leapYear/test/tictactoe.test.ts",
+        "ex_leapYear/src/main/leap.year.test.ts",
+        "fibonacci copy/test/fibonacci.test.ts",
+        "ex_fibonacci/src/main/fibonacci.ts",
+        "ex_tictactoe/src/tictactoe.ts",
+        "ex_tictactoe/test/tictactoe.test.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
 }

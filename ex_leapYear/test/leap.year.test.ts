@@ -1,4 +1,4 @@
-import {isLeapYear} from "../main/leap.year";
+import {isLeapYear} from "../src/main/leap.year";
 import each from 'jest-each';
 
 
